@@ -1,4 +1,4 @@
-import { api, ApiResponse } from '../lib/api';
+import { api, ApiResponse } from '@/lib/api';
 import { Task, CreateTaskData, UpdateTaskData } from '../types/task';
 
 // Task service functions
